@@ -4,4 +4,4 @@ NPM     : 2206823695
 
 Kelas   : PBP D
 
-Jurusan : Ilmu Komputer
+Hobi    : Tidur
